@@ -1,0 +1,14 @@
+{
+    "name": "harbor556/demo",
+    "description": "a test for composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhenghaibin",
+            "email": "m15886424418@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
